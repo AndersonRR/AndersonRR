@@ -1,7 +1,7 @@
 ### Olá, seja bem-vindo! Meu nome é Anderson e aqui você irá encontrar alguns dos meus trabalhos! 👋
 
 - 🔭 Atualmente trabalho na Unijuí como programador WEB
-- 🌱 Estou aprendendo React, React Native e Node.js
+- 🌱 Graduando em Ciência da Computação. Além disso, estou aprendendo React, React Native e Node.js
 - 🤔 Procuro sempre aprender o máximo que posso na mesma medida que compartilho aquilo que já aprendi
 
 <div>
