@@ -1,6 +1,6 @@
 ### Olá, seja bem-vindo! Meu nome é Anderson e aqui você irá encontrar alguns dos meus trabalhos! 👋
 
-- 🔭 Atualmente trabalho na [ZenFisio](https://zenfisio.com/) como programador WEB
+- 🔭 Atualmente trabalho na [ZenFisio](https://zenfisio.com/) como Tech Lead.
 - 🌱 Graduado em Ciência da Computação.
 - 🤔 Procuro sempre aprender o máximo que posso na mesma medida que compartilho aquilo que já aprendi
 
